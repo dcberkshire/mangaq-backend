@@ -1,0 +1,1 @@
+web: gunicorn mangaq_backend.wsgi
